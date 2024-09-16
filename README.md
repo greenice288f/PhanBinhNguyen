@@ -8,7 +8,6 @@ Welcome to my GitHub profile! Here’s a brief overview of my background and ski
 - **Phone:** +36302444382
 - **LinkedIn:** [Phan Binh Nguyen](https://www.linkedin.com/in/phan-binh-nguyen)
 - **Location:** Dublin, Ireland
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ## Education
 
